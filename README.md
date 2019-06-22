@@ -5,6 +5,7 @@
 * [Procedural Mesh Generation](#procedural-mesh-generation)
 * [Editor Scripting](#editor-scripting)
 * [Game Design](#game-design)
+* [Design Pattern](#design-pattern)
 
 ### Procedural Mesh Generation
 
@@ -30,6 +31,13 @@ Get the project files:\
 https://github.com/SebLague/Procedural-Planets \
 Here's the youtube list:\
 https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3 \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+### Design Pattern
+* #### Board To Bits Games - Command Pattern
+[![Design Pattern](https://img.youtube.com/vi/wbK8e7YqweA/mqdefault.jpg)](https://www.youtube.com/watch?v=wbK8e7YqweA&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Command Pattern")\
+Introducing the concept of the command pattern, a way to treat actions or functions in your game like objects that can be logged, serialized, replayed and undone.\
+Here's the youtube list:\
+https://www.youtube.com/watch?v=wbK8e7YqweA&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 ### Editor Scripting
