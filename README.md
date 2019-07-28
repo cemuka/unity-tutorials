@@ -6,7 +6,7 @@
 * [Editor Scripting](#editor-scripting)
 * [Game Design](#game-design)
 * [Design Pattern](#design-pattern)
-* [GDC & Unite Talks](#gdc-&-unite-talks)
+* [GDC & Unite Talks](#-gdc-&-unite-talks)
 
 ### Procedural Mesh Generation
 
@@ -33,12 +33,14 @@ https://github.com/SebLague/Procedural-Planets \
 Here's the youtube list:\
 https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3 \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
 * #### Sebastian Lague - Procedural Cave Generation 
 [![Procedural Cave Generation](https://img.youtube.com/vi/v7yyZZjF1z4/mqdefault.jpg)](https://www.youtube.com/watch?v=v7yyZZjF1z4&list=PLFt_AvWsXl0eZgMK_DT5_biRkWXftAOf9 "Procedural Cave Generation")\
 Learn how to create procedurally generated caverns/dungeons for your games using cellular automata and marching squares.\
 Here is the tutorial link:\
 https://www.youtube.com/watch?v=v7yyZZjF1z4&list=PLFt_AvWsXl0eZgMK_DT5_biRkWXftAOf9 \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
 
 
 ### Design Pattern
@@ -49,6 +51,8 @@ Here's the youtube list:\
 https://www.youtube.com/watch?v=wbK8e7YqweA&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq\ \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
+
+
 ### Editor Scripting
 * #### Renaissance Coders - Enemy Edtior in Unity
 [![Editor Scripting](https://img.youtube.com/vi/Osf1LUFGSvg/mqdefault.jpg)](https://www.youtube.com/watch?v=Osf1LUFGSvg&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Enemy Edtior in Unity")\
@@ -56,12 +60,15 @@ Developing editor tools is no easy task. It is going to require creativity, prog
 Here's the youtube list:\
 https://www.youtube.com/watch?v=Osf1LUFGSvg&list=PL4CCSwmU04MiCnps1DRmwIEEH7gP9X3qq \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
 * #### Sharp Accent - Behavior Node Editor
 [![Design Pattern](https://img.youtube.com/vi/JOgnGG0OQ9w/mqdefault.jpg)](https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Behavior Node Editor")\
 Node editor creation in unity and building a behaviour system. 
 Here's the youtube list:\
 https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL1bPKmY0c-wl9zNYuONgYePSAjkML9NRG \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+
 
 ### Game Design
 * #### Board To Bits Games - Systemic Game Design
@@ -70,6 +77,8 @@ Kicking off a set of videos on systemic game design by trying to define what sys
 Here's the youtube list:\
 https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7\ \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+
 
 ### GDC & Unite Talks
 * #### Unite 2014 - Dungeon of the Endless Rendering and Procedural Content
