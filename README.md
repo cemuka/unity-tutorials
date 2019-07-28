@@ -6,7 +6,7 @@
 * [Editor Scripting](#editor-scripting)
 * [Game Design](#game-design)
 * [Design Pattern](#design-pattern)
-* [GDC and Unite Talks](#-gdc-and-unite-talks)
+* [GDC and Unite Talks](#gdc-and-unite-talks)
 
 ### Procedural Mesh Generation
 
