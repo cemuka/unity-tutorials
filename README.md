@@ -71,11 +71,12 @@ Here's the youtube list:\
 https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7\ \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-### GDC Talks
-* #### Board To Bits Games - Systemic Game Design
-[![Game Design](https://img.youtube.com/vi/NZc7yGdahkY/mqdefault.jpg)](https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7 "Systemic Game Design")\
-Kicking off a set of videos on systemic game design by trying to define what systems are, or if that is even the right question to be asking.\
-Here's the youtube list:\
-https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7\ \
+### GDC & Unite Talks
+* #### Unite 2014 - Dungeon of the Endless Rendering and Procedural Content
+[![GDC & Unite Talks](https://img.youtube.com/vi/zPQOHX9hiL0/mqdefault.jpg)](https://www.youtube.com/watch?v=zPQOHX9hiL0 "Dungeon of the Endless Rendering and Procedural Content")\
+Sébastien Dubois (Amplitude Studios) covers the unique visuals and procedural dungeon generator \
+Here's the youtube link:\
+https://www.youtube.com/watch?v=zPQOHX9hiL0 \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
 
