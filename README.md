@@ -6,6 +6,7 @@
 * [Editor Scripting](#editor-scripting)
 * [Game Design](#game-design)
 * [Design Pattern](#design-pattern)
+* [GDC & Unite Talks](#gdc-&-unite-talks)
 
 ### Procedural Mesh Generation
 
@@ -51,7 +52,7 @@ https://www.youtube.com/watch?v=wbK8e7YqweA&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6H
 ### Editor Scripting
 * #### Renaissance Coders - Enemy Edtior in Unity
 [![Editor Scripting](https://img.youtube.com/vi/Osf1LUFGSvg/mqdefault.jpg)](https://www.youtube.com/watch?v=Osf1LUFGSvg&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Enemy Edtior in Unity")\
-Developing editor tools is no easy task. It is going to require creativity, programming prowess, and typically lots and lots of time. The result of a good tool is invaluable, though, and can save you hundreds of hours of boring work.
+Developing editor tools is no easy task. It is going to require creativity, programming skills, and typically lots and lots of time. The result of a good tool is invaluable, tough, and can save you hundreds of hours of boring work.
 Here's the youtube list:\
 https://www.youtube.com/watch?v=Osf1LUFGSvg&list=PL4CCSwmU04MiCnps1DRmwIEEH7gP9X3qq \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
@@ -63,6 +64,14 @@ https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL1bPKmY0c-wl9zNYuONgYePSAjkML9
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 ### Game Design
+* #### Board To Bits Games - Systemic Game Design
+[![Game Design](https://img.youtube.com/vi/NZc7yGdahkY/mqdefault.jpg)](https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7 "Systemic Game Design")\
+Kicking off a set of videos on systemic game design by trying to define what systems are, or if that is even the right question to be asking.\
+Here's the youtube list:\
+https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7\ \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+### GDC Talks
 * #### Board To Bits Games - Systemic Game Design
 [![Game Design](https://img.youtube.com/vi/NZc7yGdahkY/mqdefault.jpg)](https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u20K7 "Systemic Game Design")\
 Kicking off a set of videos on systemic game design by trying to define what systems are, or if that is even the right question to be asking.\
