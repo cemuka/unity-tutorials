@@ -6,7 +6,7 @@
 * [Editor Scripting](#editor-scripting)
 * [Game Design](#game-design)
 * [Design Pattern](#design-pattern)
-* [GDC & Unite Talks](#-gdc-&-unite-talks)
+* [GDC and Unite Talks](#-gdc-and-unite-talks)
 
 ### Procedural Mesh Generation
 
@@ -80,12 +80,16 @@ https://www.youtube.com/watch?v=NZc7yGdahkY&list=PL5KbKbJ6Gf98b44ckrGGVhuxtPN4u2
 
 
 
-### GDC & Unite Talks
+### GDC and Unite Talks
 * #### Unite 2014 - Dungeon of the Endless Rendering and Procedural Content
-[![GDC & Unite Talks](https://img.youtube.com/vi/zPQOHX9hiL0/mqdefault.jpg)](https://www.youtube.com/watch?v=zPQOHX9hiL0 "Dungeon of the Endless Rendering and Procedural Content")\
+[![GDC and Unite Talks](https://img.youtube.com/vi/zPQOHX9hiL0/mqdefault.jpg)](https://www.youtube.com/watch?v=zPQOHX9hiL0 "Dungeon of the Endless Rendering and Procedural Content")\
 Sébastien Dubois (Amplitude Studios) covers the unique visuals and procedural dungeon generator \
 Here's the youtube link:\
 https://www.youtube.com/watch?v=zPQOHX9hiL0 \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-
+* #### GDC - FTL Postmortem: Designing Without a Pitch
+[![GDC and Unite Talks](https://img.youtube.com/vi/P4Um97AUqp4/mqdefault.jpg)](https://www.youtube.com/watch?v=P4Um97AUqp4 "FTL Postmortem: Designing Without a Pitch")\
+The creation of FTL: Faster Than Light began with the desire to experience what it would feel like to be the captain of a starship. Many games have focused on space battles, but few games have focused on what happens in the ship itself. By focusing on a high-level goal of experiencing a singular feeling, and developing it with minimal preconceptions about FTL's gameplay, Subset Games was allowed to frequently alter or abandon aspects of its design, which eventually led to the game we know today. In this 2013 talkMatthew Davis and Justin Ma share their creative process as they take you step by step, from concept to crowdfunding to release. \
+Here's the youtube link:\
+https://www.youtube.com/watch?v=P4Um97AUqp4 \
