@@ -107,3 +107,10 @@ https://www.youtube.com/watch?v=zPQOHX9hiL0 \
 The creation of FTL: Faster Than Light began with the desire to experience what it would feel like to be the captain of a starship. Many games have focused on space battles, but few games have focused on what happens in the ship itself. By focusing on a high-level goal of experiencing a singular feeling, and developing it with minimal preconceptions about FTL's gameplay, Subset Games was allowed to frequently alter or abandon aspects of its design, which eventually led to the game we know today. In this 2013 talkMatthew Davis and Justin Ma share their creative process as they take you step by step, from concept to crowdfunding to release. \
 Here's the youtube link:\
 https://www.youtube.com/watch?v=P4Um97AUqp4 \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Unite Berlin 2018 - Harold Halibut and Making a Stop Motion Game
+[![GDC and Unite Talks](https://img.youtube.com/vi/9usssSQc0wQ/mqdefault.jpg)](https://www.youtube.com/watch?v=9usssSQc0wQ "Harold Halibut and Making a Stop Motion Game")\
+SlowBros talk about the creation of their upcoming game, Harold Halibut, diving into the details of their innovative stop-motion techniques and Unity 2018's latest features.
+Here's the youtube link:\
+https://www.youtube.com/watch?v=9usssSQc0wQ \
