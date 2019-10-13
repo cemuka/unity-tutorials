@@ -62,10 +62,24 @@ https://www.youtube.com/watch?v=Osf1LUFGSvg&list=PL4CCSwmU04MiCnps1DRmwIEEH7gP9X
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 #### Sharp Accent - Behavior Node Editor
-[![Design Pattern](https://img.youtube.com/vi/JOgnGG0OQ9w/mqdefault.jpg)](https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Behavior Node Editor")\
+[![Editor Scripting](https://img.youtube.com/vi/JOgnGG0OQ9w/mqdefault.jpg)](https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL5KbKbJ6Gf99OheYJSaQbMQBrqNd6HTaq "Behavior Node Editor")\
 Node editor creation in unity and building a behaviour system. 
 Here's the youtube list:\
 https://www.youtube.com/watch?v=JOgnGG0OQ9w&list=PL1bPKmY0c-wl9zNYuONgYePSAjkML9NRG \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Brackeys - How to make an EDITOR WINDOW in Unity
+[![Editor Scripting](https://img.youtube.com/vi/491TSNwXTIg/mqdefault.jpg)](https://www.youtube.com/watch?v=491TSNwXTIg "How to make an EDITOR WINDOW in Unity")\
+In this video we create a custom editor window to colorize objects!
+Here is the tutorial link:\
+https://www.youtube.com/watch?v=491TSNwXTIg \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Brackeys - How to make a CUSTOM INSPECTOR in Unity
+[![Editor Scripting](https://img.youtube.com/vi/RInUu1_8aGw/mqdefault.jpg)](https://www.youtube.com/watch?v=RInUu1_8aGw "How to make a CUSTOM INSPECTOR in Unity")\
+In this video we create a custom inspector in Unity.
+Here is the tutorial link:\
+https://www.youtube.com/watch?v=RInUu1_8aGw \
 <!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 
@@ -93,3 +107,10 @@ https://www.youtube.com/watch?v=zPQOHX9hiL0 \
 The creation of FTL: Faster Than Light began with the desire to experience what it would feel like to be the captain of a starship. Many games have focused on space battles, but few games have focused on what happens in the ship itself. By focusing on a high-level goal of experiencing a singular feeling, and developing it with minimal preconceptions about FTL's gameplay, Subset Games was allowed to frequently alter or abandon aspects of its design, which eventually led to the game we know today. In this 2013 talkMatthew Davis and Justin Ma share their creative process as they take you step by step, from concept to crowdfunding to release. \
 Here's the youtube link:\
 https://www.youtube.com/watch?v=P4Um97AUqp4 \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Unite Berlin 2018 - Harold Halibut and Making a Stop Motion Game
+[![GDC and Unite Talks](https://img.youtube.com/vi/9usssSQc0wQ/mqdefault.jpg)](https://www.youtube.com/watch?v=9usssSQc0wQ "Harold Halibut and Making a Stop Motion Game")\
+SlowBros talk about the creation of their upcoming game, Harold Halibut, diving into the details of their innovative stop-motion techniques and Unity 2018's latest features.
+Here's the youtube link:\
+https://www.youtube.com/watch?v=9usssSQc0wQ \
