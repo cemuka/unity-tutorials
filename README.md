@@ -114,3 +114,23 @@ https://www.youtube.com/watch?v=P4Um97AUqp4 \
 SlowBros talk about the creation of their upcoming game, Harold Halibut, diving into the details of their innovative stop-motion techniques and Unity 2018's latest features.
 Here's the youtube link:\
 https://www.youtube.com/watch?v=9usssSQc0wQ \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Unite Copenhagen 2019 - How to design with feedback and game feel in mind
+[![GDC and Unite Talks](https://img.youtube.com/vi/yCKI9T3sSv0/mqdefault.jpg)](https://www.youtube.com/watch?v=yCKI9T3sSv0  "How to design with feedback and game feel in mind")\
+This video will cover the workflow and processes one of the teams at Ubisoft uses to craft enjoyable game experiences, with a heavy focus on game feel. It'll show how to design with feedback and game feel in mind, how to iterate to get to a satisfying result, and the tools you can use in Unity to do so.
+
+Speaker: Renaud Forestie - Ubisoft
+
+Here's the youtube link:\
+https://www.youtube.com/watch?v=yCKI9T3sSv0 \
+<!---+++++++++++++++++++++++++++++++++++++++++++++++++++Seperator++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+#### Unite LA - Best Practices for fast game design in Unity 
+[![GDC and Unite Talks](https://img.youtube.com/vi/NU29QKag8a0/mqdefault.jpg)](https://www.youtube.com/watch?v=NU29QKag8a0&t=1534s  "How to design with feedback and game feel in mind")\
+In this expert talk, Renaud Forestié, Gameloft Montreal's Gameplay Director, reveals how his team of five can design a mobile game in just two to fourteen days by focusing on the game-feel and experience. Renaud will share Gameloft's design best practices for speeding up and improving the quality of design iterations. You'll leave the session with an overview of a process for creating compelling and memorable experiences in a very short timeframe while gaining valuable insight into your game's potential.
+
+Speaker: Renaud Forestie - Ubisoft
+
+Here's the youtube link:\
+https://www.youtube.com/watch?v=NU29QKag8a0&t=1534s \
